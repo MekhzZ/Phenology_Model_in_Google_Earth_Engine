@@ -25,4 +25,11 @@ Phenology—the study of seasonal biological events—is critical for understand
 - Agriculture: Plan planting/harvesting schedules based on seasonal trends.
 - Biodiversity Conservation: Track vegetation changes affecting ecosystems.
 
-### Access the Phenology_GEE.js file and load it in the Google Earth Engine Code Editor.
+## How to run 
+- You may simply go to the link provided in description (on Right side).
+- or Load the Phenology_GEE.js in Google Earth Engine Code editor.
+
+## Resources
+- Learning Resources: https://www.youtube.com/watch?v=_CJoxXuC81s
+- My Learnings: https://docs.google.com/document/d/1a0Cozi1GfD1WAkZzNgvDcsT6-4Cnss8RQje9gUTSo5s/edit?tab=t.0
+
